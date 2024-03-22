@@ -6,6 +6,6 @@ Join Us In Embracing A Sustainable Lifestyle And Making A Positive Impact. Track
 
 # Getting Started
 
-1. Clone the Eco-buddy repository from GitHub: git clone https://github.com/kamranjaveed/Environmental Sustainablity.git
+1. Clone the Eco-buddy repository from GitHub: git clone https://github.com/kamranjaveed/Environmental sustainablity.git
 2. Open the index.html file in your preferred web browser.
 
